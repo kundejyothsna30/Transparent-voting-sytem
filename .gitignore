@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.truffle-compile-output/
+.ganache/
+truffle-config.js.bak
